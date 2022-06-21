@@ -5,6 +5,10 @@
 Chatroom is a C++ based project for enabling multiple users to have conversation at a common place.
 ## Working Model
 
+
+https://user-images.githubusercontent.com/76241291/174835579-49ccccb6-0ef6-40b2-8271-782e6add9731.mp4
+
+
 ## Concepts Used In Project
 - Threads
     - To handle each client separately by server.
